@@ -10,7 +10,7 @@ The ASR_Nigeria_Pidgin_Workbook.ipynb explains a step-by-step process for implem
 
 ## Acknlowledgments and References
 
-Special thanks to our wonderful lecturer [Laurent Besacier](https://scholar.google.com/citations?user=Uu-ivVwAAAAJ&hl=fr), amazing colleagues at [AMMI](https://aimsammi.org/) for constant support and constructive feedback throughout the project. 
+Special thanks to our wonderful lecturer [Laurent Besacier](https://scholar.google.com/citations?user=Uu-ivVwAAAAJ&hl=fr), amazing colleagues at [AMMI](https://aimsammi.org/) and anonymous reviewers for constant support and constructive feedback throughout the project. 
 
 This repository borrowed extensively from these repositories - https://github.com/keleog/PidginUNMT https://colab.research.google.com/github/NVIDIA/NeMo/blob/main/tutorials/asr/01_ASR_with_NeMo.ipynb
 
