@@ -3,7 +3,7 @@
 This is the official repository that contains the impementation of an Automatic Speech Recognition system from Nigerian Pidgin to English.
 
 
-The data containing audio and transcription files can be downloaded the zip file from this drive https://drive.google.com/file/d/1zJvUdZgSUoaH9_QdwN4qwSv3Okr1b1A8/view?usp=sharing
+The data containing audio and transcription files can be downloaded as zip file from this drive https://drive.google.com/file/d/1zJvUdZgSUoaH9_QdwN4qwSv3Okr1b1A8/view?usp=sharing
 
 
 
